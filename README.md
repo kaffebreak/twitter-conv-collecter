@@ -3,13 +3,11 @@ Twitter上のリプライとその送り先のツイートを収集すること�
 
 ## 必要なもの
 - requests
-- emoji
 - TwitterのAPI(OAuth2.0)
 
 ### Install
 ```command
 pip install requests
-pip install emoji
 ```
 
 ## 使い方

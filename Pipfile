@@ -14,6 +14,6 @@ flake8 = "*"
 python_version = "3.10"
 
 [scripts]
-start = "python getter.py"
+start = "python collect.py"
 format = "autopep8 -ivr ."
 lint = "flake8 --show-source ."
